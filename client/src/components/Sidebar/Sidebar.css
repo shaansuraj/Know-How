@@ -1,0 +1,20 @@
+.sidebar__dashboard__row{
+    display: flex;
+    padding: 10px 10px;
+
+}
+
+.sidebar__dashboard__row>a{
+    text-decoration: none;
+    color: gray;
+    display: flex;
+   
+}
+
+.sidebar__dashboard__row>a>.MuiSvgIcon-root{
+    margin-right: 20px;
+}
+
+.adminSidebarStyle>span{
+    color: white !important;
+}
